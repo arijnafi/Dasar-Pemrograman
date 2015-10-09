@@ -1,1 +1,3 @@
-fadfa
+git add .
+git commit -m 'pesannya'
+git push
